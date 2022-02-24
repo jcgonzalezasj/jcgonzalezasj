@@ -1,7 +1,5 @@
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcgonzalezasj&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/jcgonzalezasj/github-readme-stats)
-<div style="width:100%;height:0;padding-bottom:158%;position:relative;"><iframe src="https://giphy.com/embed/ndIq5ohg1pyfqyVOII" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/drummachinefunk-create-develop-developing-ndIq5ohg1pyfqyVOII">via GIPHY</a></p>
-<!--
 **jcgonzalezasj/jcgonzalezasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
