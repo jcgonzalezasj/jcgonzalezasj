@@ -17,4 +17,4 @@ Hi, I`m Juan Carlo, web developer at <a href="https://www.foster.com.br">Foster<
 * Styled-components
 
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/jcgonzalezasj/github-readme-stats)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/jcgonzalezasj/github-readme-stats)
