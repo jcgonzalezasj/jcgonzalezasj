@@ -1,16 +1,20 @@
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcgonzalezasj&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/jcgonzalezasj/github-readme-stats)
-<!--
-**jcgonzalezasj/jcgonzalezasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Juan Carlo Gonzalez
 
-Here are some ideas to get you started:
+Hi, I`m Juan Carlo, web developer at <a href="https://www.foster.com.br">Foster</a> where I develop apps used by the pharmaceutical and healthcare industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* Currently working on: practicing my skills creating apps with Angular and React
+* What I want to learn next: Node.js
+* Pronouns: he/him
+
+## Tech that I like to use
+
+* Angular
+* TypeScript
+* React
+* Vue
+* Styled-components
+
+
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/jcgonzalezasj/github-readme-stats)
