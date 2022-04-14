@@ -1,6 +1,6 @@
 # Juan Carlo Gonzalez
 
-Hi, I`m Juan Carlo, web developer at <a href="https://www.foster.com.br">Foster</a> where I develop apps used by the pharmaceutical and healthcare industry.
+Hi, I`m Juan Carlo, web developer at <a href="https://www.foster.com.br">Foster</a> where I build apps used by the pharmaceutical and healthcare industry.
 
 ## About Me
 
