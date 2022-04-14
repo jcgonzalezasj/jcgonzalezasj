@@ -5,7 +5,7 @@ Hi, I`m Juan Carlo, web developer at <a href="https://www.foster.com.br">Foster<
 ## About Me
 
 * Currently working on: practicing my skills creating apps with Angular and React
-* What I want to learn next: Node.js
+* What I want to learn next: Node.js and Three.js
 * Pronouns: he/him
 
 ## Tech that I like to use
