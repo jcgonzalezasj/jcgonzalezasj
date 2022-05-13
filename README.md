@@ -14,6 +14,8 @@ Hi, I`m Juan Carlo, web developer at <a href="https://www.foster.com.br">Foster<
 * TypeScript
 * React
 * Vue
+* Chakra UI
+* Framer
 * <a href="https://threejs.org">Three.js</a>
 
 
