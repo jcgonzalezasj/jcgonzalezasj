@@ -7,6 +7,7 @@ Hi, I`m Juan Carlo, web developer at <a href="https://www.foster.com.br">Foster<
 * Currently working on: improving my skills building web apps using Angular, TypeScript, React and Three.js. I am also working towards my Google UX Design certificate.
 * What I want to learn next: Node.js and Unity
 * Pronouns: he/him
+* Check out my portfolio website: <a href="https://www.juancarlo.dev" target="_blank">https://www.juancarlo.dev</a>
 
 ## Tech that I like to use
 
