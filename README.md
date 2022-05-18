@@ -18,6 +18,3 @@ Hi, I`m Juan Carlo, web developer at <a href="https://www.foster.com.br">Foster<
 * Chakra UI
 * Framer
 * <a href="https://threejs.org">Three.js</a>
-
-
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vue)](https://github.com/jcgonzalezasj/github-readme-stats)
