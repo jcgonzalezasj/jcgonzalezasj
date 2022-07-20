@@ -16,7 +16,7 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Brazil/East',
+    timeZone: 'America/Sao_Paulo',
   }),
 };
 /**
